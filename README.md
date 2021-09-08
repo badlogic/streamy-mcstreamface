@@ -5,7 +5,7 @@ Tired of JavaScript charting libraries? Want to just draw some god damn lines to
 ![stonks.png](stonks.png)
 Please try this [very sophisticated demo](https://marioslab.io/dump/streamy-mcstreamface/) to convince yourself that Streamy McStreamface is what you've always been looking for.
 
-Please also look at the prestine [source code](https://github.com/badlogic/streamy-mcstreamface/blob/main/LICENSE) of this demo.
+Please also look at the prestine [source code](https://github.com/badlogic/streamy-mcstreamface/blob/main/index.html) of this demo.
 
 # Usage
 First you need to get my fine code into your project. You have two choices. Option 1:
