@@ -1,6 +1,6 @@
 {
   "name": "@marioslab/streamy-mcstreamface",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Draws streaming line graphs that auto-scale and scroll to an HTML canvas.",
   "main": "index.js",
   "types": "index.d.ts",
